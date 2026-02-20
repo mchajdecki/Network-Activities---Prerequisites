@@ -3,8 +3,7 @@
   
 
 </p>
-<h2>Performing Activities and Network Traffic Analysis Using Microsoft Azure and Wireshark</h2>
-<h3>A hands-on tutorial demonstrating how to use virtual machines to simulate network environments, perform connectivity tests, and analyze network traffic using Wireshark. </h3>
+<h2>Creating the necessary resources and prerequisites for further network traffic analysis and performing network activities.</h2>
 <h2>This tutorial outlines the following</h2>
 <ul>
 
