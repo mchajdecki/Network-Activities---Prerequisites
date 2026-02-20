@@ -8,9 +8,9 @@
 <h2>This tutorial outlines the following</h2>
 <ul>
 
-<li><a href="#vm">Creating Resources In Azure</a></li>
-<li><a href="#login">Logging into Virtual Machine</a></li>
-<li><a href="#wireshark">Installing A Protocol Analyzer - Wireshark</a></li>
+<li><a href="#rg">Creating Resource Group</a></li>
+<li><a href="#wvm">Creating a Virtual Machine (Windows) + Virtual network</a></li>
+<li><a href="#lin">Creating a Virtual Machine (Linux)</a></li>
 
 <br/>
 
@@ -58,7 +58,7 @@
 
 
 
-<h1 id="resource"><i>Creating a Resource Group</i></h1>
+<h1 id="rg"><i>Creating a Resource Group</i></h1>
 <h2>A Resource Group is a folder in the cloud that holds virtual machines, virtual networks, storage accounts and other created services.</h2>
 
 <p>
@@ -120,7 +120,7 @@
 
 
 
-<h1 id="resource"><i>Creating a Virtual Machine (Windows) + Virtual network</i></h1>
+<h1 id="wvm"><i>Creating a Virtual Machine (Windows) + Virtual network</i></h1>
 <h2>An Azure Virtual Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
 <h3>In the following steps we are creating a Windows Virtual Machine in Microsoft Azure.</h3>
 
@@ -256,7 +256,7 @@
 <br>
 
 
-<h1 id="resource"><i>Creating a Virtual Machine (Linux)</i></h1>
+<h1 id="lin"><i>Creating a Virtual Machine (Linux)</i></h1>
 <h2>An Azure Virtual Machine (VM) is a cloud-based virtual computer you can run and manage in Microsoft Azure.</h2>
 <h3>In the following steps we are creating a Linux Virtual Machine in Microsoft Azure.</h3>
 
