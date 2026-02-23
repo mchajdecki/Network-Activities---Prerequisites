@@ -368,17 +368,9 @@
 <br>
 <hr>
 
-<p>
-  <ol type="1">
-     <li>Keep a Notepad or Notes with Log-In information somewhere close by and handy. </li>
-     <li>This information will be needed for the next steps which will be Logging In to the Virtual Machine.</li>
-     <li>This concludes all the steps in creating all the Resources necessary for Network Testing.</li>
-  </ol>
-</p>
-<p>
-<img src="https://github.com/mchajdecki/Network-Activities/blob/4bbb0cd988597d74c4d32eff2b9fda37202b2320/images/Slide_22.jpg" alt="Linux_VM - Slide_22"/>
-</p>
-<hr>
-<br>
-<br>
-<br>
+<h2>This concludes this tutorial creating the necessary resources and prerequisites for further network traffic analysis and performing network activities </h2>
+<h2>Use any of the following links below to revisit tutorial sections.</h2>
+<ul>
+<li><a href="#rg">Creating A Resource Group</a></li>
+<li><a href="#wvm">Creating a Virtual Machine (Windows) + Virtual network</a></li>
+<li><a href="#lin">Creating a Virtual Machine (Linux)</a></li>
